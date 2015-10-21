@@ -1,0 +1,16 @@
+{
+  "name": "test_config",
+  "version": "1.0.0",
+  "description": "Testing config package for bug or misuse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Lash",
+  "license": "N/A",
+  "dependencies": {
+    "client-sessions": "^0.7.0",
+    "config": "^1.16.0",
+    "lodash": "^3.10.1"
+  }
+}
